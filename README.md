@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org)
 <p>
   <a href="https://t.me/post_publishh_bot">
     <b>CLICK HERE</b>
